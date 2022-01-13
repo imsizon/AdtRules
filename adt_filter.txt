@@ -1,0 +1,39 @@
+[Adblock Plus 2.0]
+! Title: Personal ADT rules
+! Expires: 12 hours
+! Homepage: https://github.com/imsizon/AdtRules
+
+! filter rules
+https://api.leetcode-cn.com/api/is_china_ip
+https://assets.leetcode-cn.com/lccn-resources/cn.js
+
+! hidden element rules
+555dy.me##.pcad
+baeldung.com##.code-block
+baeldung.com##.ezo_ad
+baeldung.com##.textwidget
+bloomberg.com###banner-container
+bloomberg.com##aside.postr-recirc
+bloomberg.com##div.sticky-container
+geeksforgeeks.org###secondary>div.widget_text
+geeksforgeeks.org##aside
+investing.com##.adBlock-popup_popup--adblock-detected__fu1VO
+investing.com##.adBlock-popup_popup--allow-domain__2aT_n
+investing.com##.overlay_overlay__LXlPB
+investing.com##div[data-test="ad-slot-visible"]
+nfmovies.com##div.hidden-xs
+nytimes.com##div.expanded-dock
+wired.com##.ad--mid-content
+wired.com##.callout
+wired.com##.consumer-marketing-unit
+wired.com##.consumer-marketing-unit--article-mid-content
+wired.com##.grid-layout__aside
+wired.com##.siderail-rad
+wordpress.com###sidebar-sticky-ad
+wordpress.com##.inline-ad-slot
+wsj.com###trending_now
+wsj.com###webui_newsletter_inset
+zerohedge.com##.ad__wrapper-element
+zerohedge.com##.layout-sidebar-left
+zerohedge.com##.layout-sidebar-right
+zerohedge.com##.newsletter-insert
