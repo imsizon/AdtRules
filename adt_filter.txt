@@ -6,6 +6,7 @@
 ! filter rules
 https://api.leetcode-cn.com/api/is_china_ip
 https://assets.leetcode-cn.com/lccn-resources/cn.js
+https://assets.leetcode.cn/lccn-resources/cn.js
 
 ! hidden element rules
 555dy.me##.pcad
@@ -17,10 +18,24 @@ bloomberg.com##aside.postr-recirc
 bloomberg.com##div.sticky-container
 geeksforgeeks.org###secondary>div.widget_text
 geeksforgeeks.org##aside
+gwdang.com###price-protect
+gwdang.com##.qr-area
+https://api.leetcode-cn.com/api/is_china_ip
+https://assets.leetcode-cn.com/lccn-resources/cn.js
+https://livebook.manning.com/api/events/view
+https://livebook.manning.com/api/userBook/pauseFreePreview
+investing.com###hpAdVideo
 investing.com##.adBlock-popup_popup--adblock-detected__fu1VO
 investing.com##.adBlock-popup_popup--allow-domain__2aT_n
 investing.com##.overlay_overlay__LXlPB
+investing.com##.primisslate
+investing.com##.promo-strip-content
+investing.com##.promo-strip-wrapper
+investing.com##.wideTopBanner
 investing.com##div[data-test="ad-slot-visible"]
+livebook.manning.com##div.free-preview-promo-container
+livebook.manning.com##div.inline-promo-container
+m.alibaba-inc.com##.broadcast-message
 nfmovies.com##div.hidden-xs
 nytimes.com##div.expanded-dock
 wired.com##.ad--mid-content
