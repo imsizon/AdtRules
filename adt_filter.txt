@@ -7,6 +7,9 @@
 https://api.leetcode-cn.com/api/is_china_ip
 https://assets.leetcode-cn.com/lccn-resources/cn.js
 https://assets.leetcode.cn/lccn-resources/cn.js
+https://livebook.manning.com/api/events/view
+https://livebook.manning.com/api/userBook/pauseFreePreview
+https://yabook.org/e/member/login/footjs.php
 
 ! hidden element rules
 555dy.me##.pcad
@@ -20,10 +23,6 @@ geeksforgeeks.org###secondary>div.widget_text
 geeksforgeeks.org##aside
 gwdang.com###price-protect
 gwdang.com##.qr-area
-https://api.leetcode-cn.com/api/is_china_ip
-https://assets.leetcode-cn.com/lccn-resources/cn.js
-https://livebook.manning.com/api/events/view
-https://livebook.manning.com/api/userBook/pauseFreePreview
 investing.com###hpAdVideo
 investing.com##.adBlock-popup_popup--adblock-detected__fu1VO
 investing.com##.adBlock-popup_popup--allow-domain__2aT_n
